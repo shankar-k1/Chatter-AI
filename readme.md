@@ -7,6 +7,8 @@ and streaming output. No API keys. No cloud. Runs on your machine.
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.58-red)
 ![LangChain](https://img.shields.io/badge/LangChain-Ollama-green)
 
+![Demo](assets/demo.png)
+
 ## Features
 
 - Streaming responses — words appear as they generate
